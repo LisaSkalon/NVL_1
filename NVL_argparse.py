@@ -4,7 +4,7 @@ from Bio.SubsMat import MatrixInfo
 import argparse
 
 def parse_inputs():
-     parser = argparse.ArgumentParser(description='Parser for GMS-track builder')
+     parser = argparse.ArgumentParser(description='Parser for NVL')
      parser.add_argument('-i', '--input' , help='Input file' , metavar='Str',
                     type=str, required=True)
      
