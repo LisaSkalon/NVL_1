@@ -7,9 +7,9 @@ My 1st python homework. 2nd semester, Bioinformatics Institute.
 ***standart output:*** alignment + score matrix
 
 ### Usage and arguments
-usage: NVL_argparse.py [-h] -i Str [-s Str] [-g Int] [-p] [-n Str]
+***usage***: NVL_argparse.py [-h] -i Str [-s Str] [-g Int] [-p] [-n Str]
 
-optional arguments:
+***optional arguments:***  
   -h, --help    :          show this help message and exit  
   -i Str, --input Str   :  Input file  
   -s Str, --string Str  :  String, printed before matrix  
